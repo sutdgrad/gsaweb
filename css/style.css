@@ -43,6 +43,7 @@ p {
 
 a {
   outline: none !important;
+  /*color: white;*/
 }
 
 hr {
@@ -673,7 +674,7 @@ footer p {
 }
 .social-icon li a {
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.09);
-  color: #808080;
+  color: white;
   font-size: 20px;
   width: 56px;
   height: 56px;
