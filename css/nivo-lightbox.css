@@ -43,6 +43,7 @@
 	width: 100%;
 	z-index: 99999;
 	text-align: center;
+	opacity: 0.25;
 }
 .nivo-lightbox-nav { display: none; }
 .nivo-lightbox-prev {
